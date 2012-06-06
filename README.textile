@@ -1,0 +1,56 @@
+h1. RoR 3 + MongoDB (mongoid) + Devise + Omniauth
+
+h2. References
+
+Rails3-mongoid-devise: "https://github.com/fortuity/rails3-mongoid-devise":https://github.com/fortuity/rails3-mongoid-devise
+Mongoid installation: "http://mongoid.org/docs/installation/":http://mongoid.org/docs/installation/
+Devise: "https://github.com/fortuity/rails3-mongoid-devise/wiki/Tutorial-(Walkthrough)":https://github.com/fortuity/rails3-mongoid-devise/wiki/Tutorial-(Walkthrough)
+OmniAuth: "http://railscasts.com/episodes/235-omniauth-part-1":http://railscasts.com/episodes/235-omniauth-part-1
+
+h2. "Building It" Tutorial 
+
+Thanks to Daniel Kehoe aka "fortuity":https://github.com/fortuity
+
+A complete walkthrough tutorial is available on the Daniel Kehoe's and Fernando Tapia Rico's (me) wiki:
+
+h4. "Rails3-Mongoid-Devise walkthrough tutorial":http://github.com/fortuity/rails3-mongoid-devise/wiki/Tutorial-%28Walkthrough%29
+
+h4. "OmniAuth Installation Tutorial":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/OmniAuth-Installation-Tutorial
+
+The tutorial documents each step to follow to create the application. Every step is documented concisely, so a complete beginner can create this application without any additional knowledge. However, no explanation is offered for any of the steps, so if you are a beginner, you’re advised to look for an introduction to Rails elsewhere. Refer to the "Rails Guides":http://guides.rubyonrails.info/ site for help if you are a beginner. Or read Michael Hartl's "Ruby on Rails Tutorial":http://railstutorial.org/ book.
+
+If you simply wish to modify the application for your own project, you can download the application and set it up as described below, without following the tutorial.
+
+
+h2. Tips & How To's
+
+This Wiki has also additional information (How To's & Tips) to customize your own rails application.
+* "How To: Change Devise password length":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/How-To:-Change-Devise-password-lenght
+* "How To: Use Omniauth with OpenID, Google, Yahoo...":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/How-To:-Use-Omniauth-with-OpenID,-Google,-Yahoo...
+* "Tip: Twitter App registration (URL field)":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/Tip:-Twitter-App-registration-(URL-field)
+* "How To: Retrieve email information (middle step) from providers like Twitter or LinkedIn":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/How-To:-Retrieve-email-information-(middle-step)-from-providers-like-Twitter-or-LinkedIn
+* "How To: Allow users to edit their account without providing a password":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/How-To:-Allow-users-to-edit-their-account-without-providing-a-password
+* "How To: Integration without :confirmable (Devise)":https://github.com/fertapric/rails3-mongoid-devise-omniauth/wiki/Integration-without-:confirmable-(Devise)
+
+
+h2. Contributing
+
+If you make improvements to this application, please share with others.
+
+Send the author a message, create an "issue":https://github.com/fertapric/rails3-mongoid-devise-omniauth/issues, or fork the project and submit a pull request.
+
+If you add functionality to this application, create an alternative implementation, or build an application that is similar, please contact me and I'll add a note to the README so that others can find your work.
+
+h2. Credits
+
+Fernando Tapia Rico ("http://fernandotapiarico.com/":http://fernandotapiarico.com/)
+
+Daniel Kehoe : "rails3-mongoid-devise":https://github.com/fortuity/rails3-mongoid-devise
+
+Any issues? Please create an "Issue":https://github.com/fertapric/rails3-mongoid-devise-omniauth/issues on GitHub.
+
+h2. License
+
+h3. Public Domain Dedication
+
+This work is a compilation and derivation from other previously released works. With the exception of various included works, which may be restricted by other licenses, the author or authors of this code dedicate any and all copyright interest in this code to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this code under copyright law.
